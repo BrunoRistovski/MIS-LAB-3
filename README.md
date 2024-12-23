@@ -2,15 +2,6 @@
 
 211143
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Okulu laboratoriskata favorutie raboti taka sto se odbira nekoj sala primer general bransa i se pravo favorite i vo samiot general gore desno ima kopce kade se gledaat favorite posle izgleguvanje od bransata se prebrisuva favorite
+## Okulu massage raboti samo sto treba koa se prakja porakata od firebase treba da se namali (minimizira)aplikacijata i stasuva so zvuk.
+##Blagodaram na vnimanieto
